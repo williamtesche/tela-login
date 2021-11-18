@@ -28,6 +28,11 @@ h1{
     font-size:33px;
 }
 
+h2{
+    margin:13px;
+    font-size: 16px;
+    text-decoration: none;
+}
 .inner-container{
    padding:9px;
    margin:9px;
