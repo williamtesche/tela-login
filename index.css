@@ -17,5 +17,38 @@ body{
     border: 2px solid red;
     border-radius: 4px;
     height:250px;
+    width:350px;
+    padding:40px;
 
+}
+
+h1{
+    font-family: Arial, sans-serif;
+    color: red;
+    font-size:33px;
+}
+
+.inner-container{
+   padding:9px;
+   margin:9px;
+   margin: 5px auto;
+}
+
+input{
+    border: 1px solid red;
+    margin-top: 7px;
+    border-radius: 2px;
+    text-align: center;
+
+}
+button{
+    color: red;
+    background-color: black;
+    cursor: pointer;
+    margin: 8px;
+}
+
+button:hover{
+    background-color: red;
+    color: black;
 }
