@@ -19,6 +19,7 @@ body{
     height:250px;
     width:350px;
     padding:40px;
+    box-shadow: 1px 1px 1px 2px gray;
 
 }
 
@@ -26,21 +27,6 @@ h1{
     font-family: Arial, sans-serif;
     color: red;
     font-size:33px;
-}
-
-h2{
-    margin:13px;
-    font-size: 16px;
-    text-decoration: none;
-    color: red;
-}
-a{
-    color:rgb(155, 6, 6);
-}
-.inner-container{
-   padding:9px;
-   margin:9px;
-   margin: 5px auto;
 }
 
 input{
@@ -60,10 +46,4 @@ button{
 button:hover{
     background-color: red;
     color: black;
-}
-
-
-.button{
-    color: rgb(255, 0, 0);
-    background-color:black;
 }
